@@ -11,6 +11,6 @@ Jump is a web app game - the user plays as a ninja where the goal of the ninja i
 </p>
 <br>
 <p align="center">
-  <img width="550" height="300" src="https://github.com/bensadel/jump/assets/95494769/2de97949-dd39-40fb-bf3f-fa442d0dd719">
+  <img src="https://github.com/bensadel/jump/assets/95494769/2de97949-dd39-40fb-bf3f-fa442d0dd719">
 </p>
 
