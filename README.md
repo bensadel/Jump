@@ -2,6 +2,13 @@
 
 Jump is a web app game - the user plays as a ninja where the goal of the ninja is to jump over as many cows as possible to attain a high score.
 
+Tech used:
+* JavaScript
+* HTML
+* CSS
+* Bootstrap
+* jQuery
+
 <p align="center">
   <img src="https://github.com/bensadel/jump/assets/95494769/f112cea5-030c-4b5b-a8c1-ad247b318aad">
 </p>
