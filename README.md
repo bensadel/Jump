@@ -9,6 +9,8 @@ Jump is a web app game - the user plays as a ninja where the goal of the ninja i
 * Bootstrap
 * jQuery
 
+<b><ins>Example:</ins></b>
+
 <p align="center">
   <img src="https://github.com/bensadel/jump/assets/95494769/f112cea5-030c-4b5b-a8c1-ad247b318aad">
 </p>
