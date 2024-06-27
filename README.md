@@ -18,14 +18,14 @@ Link: https://chromewebstore.google.com/detail/jump/ggobdbnfhdjieiiobpmfnaaelgoe
 <b><ins>Example:</ins></b>
 
 <p align="center">
-  <img src="https://github.com/bensadel/jump/assets/95494769/f112cea5-030c-4b5b-a8c1-ad247b318aad">
+  <img src="https://github.com/bensadel/Jump/assets/95494769/51f042e8-d54d-42e3-8214-8f95c7ff1bda">
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/bensadel/jump/assets/95494769/7e3b2e77-096d-4dfc-83d1-f51ccbadc212">
+  <img src="https://github.com/bensadel/Jump/assets/95494769/def4b158-a5ea-45aa-86c0-afb515e822ac">
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/bensadel/jump/assets/95494769/2de97949-dd39-40fb-bf3f-fa442d0dd719">
+  <img src="https://github.com/bensadel/Jump/assets/95494769/77d409fc-f06a-440d-b2ed-0b982b28a3e4">
 </p>
 
