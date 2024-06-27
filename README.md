@@ -4,6 +4,7 @@ Jump is a Google Chrome Extension minigame - the user plays as a ninja where the
 
 Link: https://chromewebstore.google.com/detail/jump/ggobdbnfhdjieiiobpmfnaaelgoeabpc
 
+Picture Credits: Freepik
 <br>
 
 <b><ins>Tech used:</ins></b>
@@ -28,4 +29,5 @@ Link: https://chromewebstore.google.com/detail/jump/ggobdbnfhdjieiiobpmfnaaelgoe
 <p align="center">
   <img src="https://github.com/bensadel/Jump/assets/95494769/77d409fc-f06a-440d-b2ed-0b982b28a3e4">
 </p>
+
 
