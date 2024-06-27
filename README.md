@@ -1,8 +1,8 @@
 # Jump
 
-Jump is a web app game - the user plays as a ninja where the goal of the ninja is to jump over as many cows as possible to attain a high score.
+Jump is a Google Chrome Extension minigame - the user plays as a ninja where the goal of the ninja is to jump over as many cows as possible to attain a high score.
 
-Google Chrome Extension link: https://chromewebstore.google.com/detail/jump/ggobdbnfhdjieiiobpmfnaaelgoeabpc
+Link: https://chromewebstore.google.com/detail/jump/ggobdbnfhdjieiiobpmfnaaelgoeabpc
 
 <br>
 
