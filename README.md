@@ -19,7 +19,7 @@ Picture Credits: Freepik
 
 <br>
 
-<b><ins>Example:</ins></b>
+<b><ins align="center">Example:</ins></b>
 
 <p align="center">
   <img src="https://github.com/bensadel/Jump/assets/95494769/51f042e8-d54d-42e3-8214-8f95c7ff1bda">
